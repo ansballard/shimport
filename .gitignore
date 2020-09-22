@@ -5,6 +5,7 @@ node_modules
 /dist
 /index.js
 /index.dev.js
+/index.browser.js
 /test/samples/_
 /demos/shimport.js
 /demos/shimport.dev.js
